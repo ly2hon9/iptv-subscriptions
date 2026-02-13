@@ -99,15 +99,6 @@ http://101.18.26.104:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 http://101.18.26.104:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Sansha" tvg-logo="https://live.fanmingming.com/tv/Sansha.png" group-title="卫视频道",三沙卫视
 http://101.18.26.104:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
-
-# === 卡通教育 ===
-#EXTINF:-1 tvg-name="GoldenEagle" tvg-logo="https://live.fanmingming.com/tv/GoldenEagle.png" group-title="卡通教育",金鹰卡通
+#EXTINF:-1 tvg-name="GoldenEagle" tvg-logo="https://live.fanmingming.com/tv/GoldenEagle.png" group-title="卫视频道",金鹰卡通
 http://101.18.26.104:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="SDETV" tvg-logo="https://live.fanmingming.com/tv/SDETV.png" group-title="卡通教育",山东教育
-http://101.18.26.104:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卡通教育",CETV1
-http://101.18.26.104:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卡通教育",CETV2
-http://101.18.26.104:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卡通教育",CETV4
-http://101.18.26.104:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+
