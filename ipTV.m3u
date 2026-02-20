@@ -35,8 +35,6 @@ http://221.232.196.188:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid
 http://221.232.196.188:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://221.232.196.188:7777/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
-http://221.232.196.188:7777/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 
 # --- 卫视频道 ---
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",湖北卫视
@@ -76,4 +74,5 @@ http://221.232.196.188:7777/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",东方卫视
 http://221.232.196.188:7777/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",贵州卫视
+
 http://221.232.196.188:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
